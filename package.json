@@ -1,0 +1,21 @@
+{
+  "name": "pageobjectmodel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "nilanjana",
+  "license": "ISC",
+  "scripts": {
+    "test": "testcafe"
+  },
+  "devDependencies": {
+    "cucumber": "^6.0.5",
+    "testcafe-reporter-nunit": "^0.1.2"
+  },
+  "dependencies": {
+    "@platform-os/testcafe-helpers": "^2.3.2",
+    "testcafe-reporter-allure": "^1.0.5",
+    "testcafe-reporter-html": "^1.4.6",
+    "testcafe-reporter-xunit": "^2.1.0"
+  }
+}

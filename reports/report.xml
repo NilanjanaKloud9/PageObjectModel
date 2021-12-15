@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Chrome 96.0.4664.93 / Windows 10" tests="1" failures="0" skipped="0" errors="0" time="71.671" timestamp="Wed, 15 Dec 2021 18:39:23 GMT" >
+  <testcase classname="OrderProduct" name="Login to Amazon Test (screenshots: C:\Users\Nilanjana Das\Documents\POMAmazon\PageObjectModel\screenshots)" time="71.657">
+  </testcase>
+</testsuite>
