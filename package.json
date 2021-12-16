@@ -14,8 +14,10 @@
   },
   "dependencies": {
     "@platform-os/testcafe-helpers": "^2.3.2",
+    "testcafe": "^1.17.1",
     "testcafe-reporter-allure": "^1.0.5",
     "testcafe-reporter-html": "^1.4.6",
+    "testcafe-reporter-jenkins": "^1.0.1",
     "testcafe-reporter-xunit": "^2.1.0"
   }
 }
