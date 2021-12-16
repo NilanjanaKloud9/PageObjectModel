@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Chrome 96.0.4664.110 / Windows 10" tests="1" failures="0" skipped="0" time="60.888" timestamp="Thu, 16 Dec 2021 06:22:31 GMT" id="4a8340f9-bff3-4c50-b7da-18e8a34b22a4">
+  <testcase classname="OrderProduct" name="Login to Amazon Test" time="60.848">
+    <system-out>
+    <![CDATA[
+      [[screenshotsDir|C:\Users\Nilanjana Das\Documents\POMAmazon\PageObjectModel\screenshots]]
+      [[screenshot|2021-12-16_11-51-29\test-1\Chrome_96.0.4664.110_Windows_10\1.png|153afc02-3534-4e92-bbfe-d61a4625f412]]
+      [[screenshot|1.png|0c628e80-efd6-4cce-b5e1-d4a162a7aa67]]
+      [[screenshot|2.png|0ed6cd85-99d9-4ce7-872c-14fd8a1ae5dc]]
+    ]]>
+    </system-out>
+  </testcase>
+</testsuite>
