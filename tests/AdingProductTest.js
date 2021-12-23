@@ -8,10 +8,12 @@ import CartPage from '../pages/CartPage';
 const dataSet = require('../data/data.json');
 //import LogOutpage from '../pages/LogOutpage';
 
-const URL = 'https://www.amazon.com/';
-const getURL = ClientFunction(() => window.location.href);
-fixture ("OrderProduct")
-    .page (URL);
+//const URL = 'https://www.amazon.com/';
+//const getURL = ClientFunction(() => window.location.href);
+//fixture ("OrderProduct")
+   // .page (URL);
+    fixture `OrderProduct`
+    .page `http://localhost:8080`;
 dataSet.forEach( data => {
 test('Adding Product Test', async t => {
     await t
